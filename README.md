@@ -26,6 +26,14 @@
 
 I am a self-taught full-stack developer, designer and content creator. Every single project you see in my GitHub has been created solely by me through countless hours of research, learning, and stack overflow of course. 
 
+### 🏢 Current Projects
+
+Although some projects may not have source code visible, some are still available to see & use.
+
+### 🌱 Currently learning
+
+Although JavaScript, HTML5, CSS3 and React are my most proficient skills. I want to hone my skills and grow in these areas, thus, I am currently building difficult and challenging projects using these languages and frameworks. 
+
 <!--
 **OgUrbana/OgUrbana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
