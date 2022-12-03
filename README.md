@@ -24,7 +24,7 @@
 
 ![📊 Matthew Gajo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurbana&show_icons=true&theme=radical)
 
-I am a self-taught full-stack developer, designer and content creator. Every single project you see in my GitHub has been created solely by me through countless hours of research, learning, and stack overflow of course. 
+I am a self-taught full-stack developer, designer and content creator. Every single project you see in my GitHub has been created solely by me through countless hours of research, learning, and googling stack overflow of course. 
 
 ### 🏢 Current Projects
 
