@@ -16,7 +16,7 @@
 
 #
 
-### 🧑‍🎓 Matthew Gajo
+### 🧑‍🎓 Gajo
 
 **`Student of Innovation (Developer/Designer/Creator)`**
 
